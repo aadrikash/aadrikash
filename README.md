@@ -78,5 +78,5 @@ Let's Connect
 I'm always open to interesting conversations, collaborations, and internship opportunities in AI/ML, backend systems, or automation.
 
 LinkedIn
-www.linkedin.com/in/aadrika-sharma-8890b9274(mailto:aadrikasharma10022004@gmail.com)
+https://www.linkedin.com/in/aadrika-sharma-8890b9274/  (mailto:aadrikasharma10022004@gmail.com)
 
