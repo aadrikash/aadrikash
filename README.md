@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:4C1D95&height=180&section=header&text=Hi%20There!%20I'm%20Aadrika&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="70" />
+
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;GenAI+%26+RAG+Systems+Builder;Machine+Learning+Enthusiast;Always+Building+Something+New" />
 
 <img src="assets/profile.gif" width="260" />
